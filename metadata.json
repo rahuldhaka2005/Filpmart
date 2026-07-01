@@ -1,0 +1,6 @@
+{
+  "name": "Flipmart Store",
+  "description": "A fully featured e-commerce storefront clone resembling Flipkart with cart and product listings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
